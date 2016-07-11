@@ -1,0 +1,10 @@
+Dish.java - by Emma Lurie
+DiningHall.java - by Emma Lurie and Dorothy Sun
+PalateTailor.java - by Emma Lurie and Dorothy Sun
+PalateTailorTesting.java - by Emma Lurie
+
+
+PalateTailorGUI.java - by Emma Lurie 
+InstructionsPanel.java - by Dorothy Sun and Emma Lurie
+TodaysChoicePanel.java - by Emma Lurie
+JustForYouPanel.java - by Dorothy Sun and Emma Lurie
